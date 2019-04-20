@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="189bab1f-84e6-4b78-bb5d-186690e452f9" name="Default Changelist" comment="" />
+    <list default="true" id="189bab1f-84e6-4b78-bb5d-186690e452f9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/djangoSIGE" beforeDir="false" afterPath="$PROJECT_DIR$/djangoSIGE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoSIGE/djangosige/templates/login/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/djangoSIGE/djangosige/templates/login/login.html" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,7 +26,7 @@
         <entry file="file://$PROJECT_DIR$/djangoSIGE/djangosige/templates/login/login.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="375">
-              <caret line="46" selection-start-line="46" selection-end-line="47" />
+              <caret line="46" selection-start-line="46" selection-end-line="46" />
             </state>
           </provider>
         </entry>
@@ -308,7 +311,7 @@
     <entry file="file://$PROJECT_DIR$/djangoSIGE/djangosige/templates/login/login.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
-          <caret line="46" selection-start-line="46" selection-end-line="47" />
+          <caret line="46" selection-start-line="46" selection-end-line="46" />
         </state>
       </provider>
     </entry>
