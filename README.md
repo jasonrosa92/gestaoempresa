@@ -1,0 +1,1 @@
+Projeto Django de gestão de empresas.
